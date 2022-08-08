@@ -36,6 +36,8 @@ for i in range(length):
 matnorm = sum(sum(matrix))
 print(matnorm)
 
+p.plot(x, z)
+
 
 
 
